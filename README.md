@@ -1,4 +1,3 @@
-adam-starter-project
-====================
+# ADAM Starter Project
 
-Boilerplate code to start a project using BDG-ADAM
+## Basic setup for project
